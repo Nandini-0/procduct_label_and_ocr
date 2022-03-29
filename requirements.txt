@@ -4,4 +4,3 @@ fastai
 easyocr
 flask
 ipywidgets
-gunicorn
